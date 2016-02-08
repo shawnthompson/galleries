@@ -1,7 +1,7 @@
-theme-gcwu-fegc
-===============
+GCWeb
+=====
 
-[![Build Status](https://travis-ci.org/wet-boew/theme-gcwu-fegc.svg?branch=master)](https://travis-ci.org/wet-boew/theme-gcwu-fegc)
-[![devDependency Status](https://david-dm.org/wet-boew/theme-gcwu-fegc/dev-status.svg)](https://david-dm.org/wet-boew/theme-gcwu-fegc#info=devDependencies)
+[![Build Status](https://travis-ci.org/wet-boew/GCWeb.png?branch=master)](https://travis-ci.org/wet-boew/GCWeb)
+[![devDependency Status](https://david-dm.org/wet-boew/GCWeb/dev-status.png?theme=shields.io)](https://david-dm.org/wet-boew/GCWeb#info=devDependencies)
 
-Government of Canada (GC) Web Usability theme for the Web Experience Toolkit
+canada.ca theme

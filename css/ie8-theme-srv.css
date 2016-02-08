@@ -6,18 +6,18 @@
  *
  */
 @charset "UTF-8";
-/*
+/*!
  *
  * Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
  * wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html
  *
  */
 /*
- *
- * Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
- * wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html
- *
+ Global variables for GCWeb
  */
+/*
+Left menu variables
+*/
 /*
  * Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
  * wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html
@@ -26,10 +26,6 @@
  * HOW TO USE THIS FILE
  * Use this file to override Bootstrap variables and WET custom variables.
  * If there is a Bootstrap variable not shown here that you want to override, go to "../lib/bootstrap-sass-official/assets/stylesheets/bootstrap/variables" to view the variables that you can override. Simply copy and paste the variable and its applicable section (if applicable) from the Bootstrap file into this override file and override the variables as applicable.
- */
-/* Bootstrap
- *
- * GLYPHICONS Halflings for Twitter Bootstrap by GLYPHICONS.com | Licensed under http://www.apache.org/licenses/LICENSE-2.0
  */
 /* TODO: Remove this block when including bootstrap 3.3.5 */
 /*!
@@ -2154,12 +2150,12 @@ output {
     outline: 0;
     box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6); }
   .form-control::-moz-placeholder {
-    color: #999;
+    color: #5c5c5c !important;
     opacity: 1; }
   .form-control:-ms-input-placeholder {
-    color: #999; }
+    color: #5c5c5c !important; }
   .form-control::-webkit-input-placeholder {
-    color: #999; }
+    color: #5c5c5c !important; }
   .form-control[disabled], .form-control[readonly],
   fieldset[disabled] .form-control {
     cursor: not-allowed;
@@ -9174,7 +9170,7 @@ details {
  */
   #gcwu-sig,
   #wmms {
-    height: 1.5em; }
+    height: 2em; }
   #wmms {
     float: right; }
   header {
